@@ -1,18 +1,18 @@
 //consultar productos
-const listaProductos = () => fetch('http://localhost:3000/productos').then(respuesta => respuesta.json());
+const listaProductos = () => fetch('https://64c7de2ca1fe0128fbd56625.mockapi.io/productos').then(respuesta => respuesta.json());
 //const listaProductos = () => fetch('https://zealous-loincloth-bass.cyclic.app/productos').then(respuesta => respuesta.json());
 
 
 //detalle producto
 const detalleProducto = async (id) => {
-    return fetch(`http://localhost:3000/productos/${id}`)
+    return fetch(`https://64c7de2ca1fe0128fbd56625.mockapi.io/productos/${id}`)
         .then(respuesta => respuesta.json())
 }
 
 
 //crear productos
 const crearProducto = (nombre, precio, imagen, categoria, descripcion) => {
-    return fetch(`http://localhost:3000/productos`, {
+    return fetch(`https://64c7de2ca1fe0128fbd56625.mockapi.io/productos`, {
         method: "POST",
         headers: {
             "Content-type": "application/json"
@@ -50,7 +50,7 @@ const crearProducto = (nombre, precio, imagen, categoria, descripcion) => {
 
 //editar productos corregido
 const actualizarProducto = (nombre, precio, imagen, id, categoria, descripcion) => {
-    return fetch(`http://localhost:3000/productos/${id}`, {
+    return fetch(`https://64c7de2ca1fe0128fbd56625.mockapi.io/productos/${id}`, {
         method: "PUT",
         headers: {
             "Content-Type": "application/json"
@@ -72,7 +72,7 @@ const actualizarProducto = (nombre, precio, imagen, id, categoria, descripcion) 
 
 //eliminar productos
 const eliminarProducto = (id) => {
-    return fetch(`http://localhost:3000/productos/${id}`, {
+    return fetch(`https://64c7de2ca1fe0128fbd56625.mockapi.io/productos/${id}`, {
         method: "DELETE"
     })
 }
