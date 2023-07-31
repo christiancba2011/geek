@@ -1,0 +1,244 @@
+{
+  "productos": [
+    {
+      "nombre": "Quebracho Blanco",
+      "precio": "5500",
+      "id": "1",
+      "imagen": "https://viveroarguello.com.ar/wp-content/uploads/2017/04/quebracho-blanco-300x300.jpg",
+      "categoria": "autoctonas",
+      "descripcion": "De porte elegante y esbelto, es la especie más característica del parque Chaqueño. Su corteza es rugosa, gruesa y resquebrajada, sus hojas son alargadas en forma de lanza y terminan en espinas. Madera pesada, textura fina y homogénea, debido a esto es muy utilizado para producir carbón o vigas para la construcción de cabañas, lo que constituye una gran amenaza por la tala desmedida a tal fin. Sus flores son pequeñas de color amarillo claro y despiden un suave perfume. Sus frutos son cápsulas leñosas de color verde claro tornando a un color amarillento cuando maduran.\nEs un árbol de crecimiento lento y es uno de los ejemplares que se encuentra en cierto peligro de desaparición de nuestra provincia."
+    },
+    {
+      "nombre": "Producto XYZ",
+      "precio": "6030",
+      "id": "2",
+      "imagen": "https://i.ibb.co/35bTz5c/producto-2.png",
+      "categoria": "",
+      "descripcion": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habit."
+    },
+    {
+      "nombre": "Producto XYZBB",
+      "precio": "6000",
+      "id": "3",
+      "imagen": "https://i.ibb.co/1TybsXT/producto-3.png",
+      "categoria": "jardin",
+      "descripcion": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habit."
+    },
+    {
+      "nombre": "Producto XYZAA",
+      "precio": "6050",
+      "id": "4",
+      "imagen": "https://i.ibb.co/C1VKkRC/producto-4.png",
+      "categoria": "",
+      "descripcion": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habit."
+    },
+    {
+      "nombre": "Producto XYZ",
+      "precio": "6000",
+      "id": "5",
+      "imagen": "https://i.ibb.co/5xrv1Xq/producto-5.png",
+      "categoria": "jardin",
+      "descripcion": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habit."
+    },
+    {
+      "nombre": "Producto XYZ",
+      "precio": "6000",
+      "imagen": "https://i.ibb.co/VjsTyxm/producto-6.png",
+      "id": "6",
+      "categoria": "Star wars",
+      "descripcion": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habit."
+    },
+    {
+      "nombre": "Control XYZ",
+      "precio": "6000",
+      "imagen": "https://i.ibb.co/WyzMJtC/consola-1.png",
+      "id": "7",
+      "categoria": "Consolas",
+      "descripcion": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habit."
+    },
+    {
+      "nombre": "Control y consola XYZ",
+      "precio": "6000",
+      "imagen": "https://i.ibb.co/0BpJthg/consola-2.png",
+      "id": "8",
+      "categoria": "Consolas",
+      "descripcion": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habit."
+    },
+    {
+      "nombre": "Consola XYZ",
+      "precio": "6000",
+      "imagen": "https://i.ibb.co/JQjVwYX/consola-3.png",
+      "id": "9",
+      "categoria": "Consolas",
+      "descripcion": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habit."
+    },
+    {
+      "nombre": "Consola XYZ",
+      "precio": "6000",
+      "imagen": "https://i.ibb.co/b3xr74X/consola-4.png",
+      "id": "10",
+      "categoria": "Consolas",
+      "descripcion": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habit."
+    },
+    {
+      "nombre": "Consola XYZ",
+      "precio": "6000",
+      "id": "11",
+      "imagen": "https://i.ibb.co/SrSD1fz/consola-5.png",
+      "categoria": "",
+      "descripcion": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habit.558"
+    },
+    {
+      "nombre": "Game Boy Color",
+      "precio": "6000",
+      "imagen": "https://i.ibb.co/SX5xWzC/consola-6.png",
+      "id": "12",
+      "categoria": "Consolas",
+      "descripcion": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habit."
+    },
+    {
+      "nombre": "Camisa Atari",
+      "precio": "6000",
+      "imagen": "https://i.ibb.co/B3V2KrM/diversos-1.png",
+      "id": "13",
+      "categoria": "variedades",
+      "descripcion": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habit."
+    },
+    {
+      "nombre": "Camisa SNES",
+      "precio": "6000",
+      "imagen": "https://i.ibb.co/r2L7LDq/diversos-2.png",
+      "id": "14",
+      "categoria": "Diversos",
+      "descripcion": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habit."
+    },
+    {
+      "nombre": "Control y consola XYZ",
+      "precio": "6000",
+      "imagen": "https://i.ibb.co/NxfKpVZ/diversos-3.png",
+      "id": "15",
+      "categoria": "Diversos",
+      "descripcion": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habit."
+    },
+    {
+      "nombre": "Control y consola XYZ",
+      "precio": "6000",
+      "imagen": "https://i.ibb.co/0yzSJ50/diversos-4.png",
+      "id": "16",
+      "categoria": "Diversos",
+      "descripcion": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habit."
+    },
+    {
+      "nombre": "Control y consola XYZ",
+      "precio": "6000",
+      "id": "17",
+      "imagen": "https://i.ibb.co/LpY04k4/diversos-5.png",
+      "categoria": "Diversos",
+      "descripcion": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habit."
+    },
+    {
+      "nombre": "Producto XYZ",
+      "precio": "6000",
+      "id": "18",
+      "imagen": "https://i.ibb.co/JdfLkV6/diversos-6.png",
+      "categoria": "Diversos",
+      "descripcion": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habit."
+    },
+    {
+      "nombre": "Algarrobo",
+      "precio": "7800",
+      "id": "kUZqw6U",
+      "imagen": "https://viveroarguello.com.ar/wp-content/uploads/2017/04/algarrobo-300x300.jpg",
+      "categoria": "autoctonas",
+      "descripcion": "El algarrobo es uno de los géneros más antiguo con 45 especies en nuestro continente se sitúa en las zonas áridas y secas de Sudamérica. En nuestro país se concentra en la zona norte y centro del territorio, aunque la intensa explotación que ha sufrido debido a la utilización de su madera ha extinguido prácticamente la población algarrobal.\nEl algarrobo blanco alcanza hasta los 12 metros de alto y un metro de diámetro. El algarrobo negro puede ser aun más alto.\nDurante siglos los algarrobos fueron la fuente de sombra más importante en el ámbito rural, sirviendo de cobijo para los animales en las estaciones de más frío.\nEn nuestra provincia encontramos con más frecuencia el algarrobo blanco que puede alcanzar los 13 metros de altura, de copa amplia y de corteza castaño grisáceo. Las flores son de color blanco-amarillo agrupadas en espigas.\n"
+    },
+    {
+      "nombre": "Tala",
+      "precio": "5500",
+      "imagen": "https://viveroarguello.com.ar/wp-content/uploads/2017/04/tala-300x300.jpg",
+      "categoria": "autoctonas",
+      "descripcion": "Es un árbol espinoso que puede alcanzar los 12 metros de altura, su corteza es delgada y grisácea en los ejemplares más jóvenes. Su madera es bastante dura. Se lo encuentra en zonas con suficiente humedad y en forma de arbusto en aquellos terrenos más secos. Florece en primavera, sus flores son de color amarillenta o verdosas.\nTiene propiedades medicinales, utilizado para el tratamiento de enfermedades respiratorias como para problemas de indigestión.",
+      "id": "JtnDf6V"
+    },
+    {
+      "nombre": "Espinillo",
+      "precio": "4750",
+      "id": "WcwraUd",
+      "imagen": "https://www.todo-argentina.net/geografia/provincias/cordoba/imagenes/espinillo_cba.jpg",
+      "categoria": "autoctonas",
+      "descripcion": "El Espinillo es el árbol serrano más común de las sierras de Córdoba, es un árbol bien rústico y cuánto más áspero es el lugar en donde se encuentra es cuando mejor crece y más abunda. Sus hojas son pequeñas y sus espinas bien largas. Su tronco es escueto y leñoso, su corteza de color pardo oscuro. Sus flores son pequeñas y de color amarilla, y son utilizadas para preparar perfumes. Es un árbol resistente a la falta de agua."
+    },
+    {
+      "nombre": "Piquillin",
+      "precio": "4685",
+      "imagen": "https://www.todo-argentina.net/geografia/provincias/cordoba/imagenes/Piquillin.jpg",
+      "categoria": "autoctonas",
+      "descripcion": "Este arbusto espinoso forma parte de la familia Rhamnaceae. Es una especie xerófila, endémica de Argentina, que llega a medir hasta 3,2 metros de alto. Con relación a su follaje, es perenne y espinescente.\nLas hojas son verdes oscuros, de tamaño pequeño. Así mismo, se caracterizan por ser sésiles y elípticas. Estas se presentan en las ramas menores, en forma de ramilletes. En cuanto a las flores, son pedunculadas y de color amarillento.\nLos frutos son dulces y comestibles. Tienen un tono rojizo y una forma ovalada, con un diámetro aproximado de 5 a 11 milímetros. El piquillín se encuentra localizado en las ecorregiones de montes de llanuras. Así, pudiera encontrarse en el Chaco seco y húmedo y en las sierras, entre otros.",
+      "id": "sMJMkqu"
+    },
+    {
+      "nombre": "Jarilla hembra",
+      "precio": "5700",
+      "imagen": "https://www.todo-argentina.net/geografia/provincias/cordoba/imagenes/jarilla_1.jpg",
+      "categoria": "autoctonas",
+      "descripcion": "La jarilla hembra es una especie fanerógama, miembro de la familia Zygophyllaceae. En cuanto a su distribución, es un arbusto endémico de Bolivia, Perú, Argentina y Chile. La altura de esta planta pudiera ser hasta de 3 metros.\nEl tallo es leñoso y las hojas tienen dos folíolos, divergentes y poco soldados. En cuanto al período de floración del Larrea divaricata, ocurre de octubre a noviembre. En esos meses se pueden apreciar sus flores de color amarillo. Por otra parte, el fruto tiene forma de cápsula, con pelos blancos, parecido a un copo de algodón.\nPuede encontrarse en pastizales, conjuntamente con vegetación herbácea, matorrales y bosques bajos, compartiendo así con plantas de estratos abiertos.",
+      "id": "e-UO-pt"
+    },
+    {
+      "nombre": "Chañar",
+      "precio": "6430",
+      "imagen": "https://www.todo-argentina.net/geografia/provincias/cordoba/imagenes/Chanar_1.jpg",
+      "categoria": "autoctonas",
+      "descripcion": "Este árbol de la familia de las fabáceas puede llegar a medir entre 3 y 10 metros de alto. En cuanto al tronco, pudiera tener más de 40 centímetros de diámetro. La corteza es gruesa y de color verde amarillento. Además, se encuentra surcada por hendiduras profundas, dándole así una textura áspera.\nEl follaje del cañar es de color verde, que además del abundante enramado, le dan a la copa de este árbol una forma redondeada. Sus frutos son unas legumbres drupáceas muy carnosas, dulces y comestibles. En relación a los pétalos de la flor, son amarillos intensos, ocurriendo la floración durante los meses de septiembre a octubre. Este árbol se distribuye en los bosques áridos de la región centro-sur del continente suramericano.\n\n",
+      "id": "opcSRDS"
+    },
+    {
+      "nombre": "Horco molle",
+      "precio": "7400",
+      "id": "C2Thga5",
+      "imagen": "https://www.todo-argentina.net/geografia/provincias/cordoba/imagenes/horoc_molle.jpg",
+      "categoria": "autoctonas",
+      "descripcion": "Esta especie, también conocida como arrayán o anacahuita, pertenece a la familia Myrtaceae. Es endémica de Argentina, Paraguay, Uruguay y del sur de Brasil.\nEl horco molle mide entre 3 y 6 metros. Con relación a su tronco, es grueso y de color oscuro, presentando una corteza con grietas muy delgadas. Su follaje es persistente y de color verde luminoso, aunque desde lejos pareciera de color gris.\nLas hojas son lanceoladas, simples y opuestas. Su longitud puede variar de 3,5 a 5,5 centímetros. Por otra parte, las flores son blancas, presentándose en forma de ramilletes.\nLos frutos son pequeñas bayas redondas, con un diámetro de 1 centímetro. Pueden variar de color, según la madurez. Así, podrían ser desde amarillo hasta rojo-púrpura. Estos son comestibles, siendo utilizados en Uruguay como un sustituto de la pimienta."
+    },
+    {
+      "nombre": "Cola de Zorro",
+      "precio": "850",
+      "imagen": "https://i.pinimg.com/originals/88/62/6e/88626e17dc4f17dab883483000b52181.jpg",
+      "categoria": "autoctonas",
+      "descripcion": "Especie botánica de pastos rizomatosos muy altos. Crece en densa masa, pudiendo alcanzar 3 m de altura; hojas perennes, largas y finas, 1–2 m de largo y 1 cm ancho, con bordes muy afilados (se recomienda manipular con cuidado), color verde azulinas, pero pueden llegar a gris plateadas. De alto valor ornamental.\n\n\nDistribución y Hábitat: Especie endémica del sur de Sudamérica, en la región pampeana y en la Patagonia. Fue introducida en Europa y Norteamérica como planta ornamental. Es altamente adaptable, creciendo en una amplia gama de ambientes y climas. Semilla prolíficamente, cada planta puede producir más de 1 millón de simientes durante su vida.",
+      "id": "P4JpoRG"
+    },
+    {
+      "nombre": "Nicotiana langiflora",
+      "precio": "3500",
+      "imagen": "http://www.diquesdecordoba.com.ar/wp-content/uploads/2021/12/nicotiana_langifloraa.jpg",
+      "categoria": "autoctonas",
+      "descripcion": "Especie sudamericana que llega hasta el centro de Argentina. Es frecuente en sitios húmedos como planta ruderal y maleza de huertas y jardines. También es frecuente como maleza de cultivos de verano y pasturas. Sindicada como planta tóxica.\n\nNombre vulgar: flor de la tarde, tabaquillo, flor del sapo, yerba del sapo, tabaco blanco, tabaco del campo, coro, tardilla, lagaña de perro, lámpara, vara de San Antonio.",
+      "id": "s6VAK7m"
+    },
+    {
+      "nombre": "Chucho de las sierras",
+      "precio": "4350",
+      "imagen": "http://www.diquesdecordoba.com.ar/wp-content/uploads/2021/05/chucho.jpg",
+      "categoria": "autoctonas",
+      "descripcion": "Planta perenne,perennes, de porte achaparrado, leñosas en la base, densamente ramosas, con tallos y hojas cortísimamente pubescentes.\nEs una planta pequeña con una textura foliar y densidad de follaje medio que forma una especie de cojín cubierto de flores con una corola en forma de campana con colores celestes liláceos que se intensifica en el tubo corolino por donde se asoman las anteras amarillas que marcan un contraste muy decorativo.\nSe la encuentra creciendo en lugares serranos, abiertos, en suelos sueltos o degradados.",
+      "id": "-DUm2KP"
+    },
+    {
+      "nombre": "Sauce Criollo",
+      "precio": "7900",
+      "imagen": "https://www.culturademontania.org.ar/Relatos/sauce_criollo_planta_medicinal_montana_8.jpg",
+      "categoria": "autoctonas",
+      "descripcion": "Especie propia de América. Es una especie hidrófila que vive en la primera línea de la orillas de ríos, arroyos, pantanos y bañados de todo el país. Es la única especie de sauce nativa en Argentina y América del Sur. Su área de distribución geográfica es muy amplia, abarcando desde Méjico en el Hemisferio Norte hasta el río Chubut en Argentina.Crece hasta los 1900 metros de altura sobre el nivel del mar. Forma agrupaciones llamadas sauzales.Prefiere suelos húmedos bien drenados y sol directo en espacios abiertos,como todos los miembros del género Salixpose.\nPropiedades Medicinales:\n\nLa corteza de sauce contiene sustancias químicas llamadas salicilatos. Los salicilatos son similares a la aspirina.",
+      "id": "lTTkXqu"
+    },
+    {
+      "nombre": "Echeveria",
+      "precio": "3570",
+      "imagen": "https://cdn0.ecologiaverde.com/es/posts/2/0/7/echeveria_2702_0_600.webp",
+      "categoria": "jardin",
+      "descripcion": "La Echeveria elegans, también llamada rosa de alabastro, es una planta pequeña y suculenta. Tiene su origen en México y está actualmente en peligro de extinción en estado natural. Debe su nombre a la forma en que sus hojas crecen y a su color, pues parecen formar una flor de piedra. No obstante, hay muchas especies o tipos de planta echeveria, no solo la Echeveria elegans.",
+      "id": "0-hhKiu"
+    }
+  ]
+}
